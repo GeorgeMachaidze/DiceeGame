@@ -1,2 +1,2 @@
 # DicGame
-This is dic game
+This is dicee game
